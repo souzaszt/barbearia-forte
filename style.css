@@ -21,7 +21,7 @@ p {
 }
 
 #banner {
-    
+    width: 100%;
 }
 
 .TituloP {
@@ -48,5 +48,5 @@ ul{
 }
 
 .imgbeneficios {
-    width: 50%qa;
+    width: 50%;
 }
